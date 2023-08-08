@@ -33,6 +33,6 @@
 - Canto 30		1300 tokens		1338 syntactic words		35 sentences
 - Canto 33		1367 tokens		1405 syntactic words		43 sentences
 
-> Total:		40386 tokens	41367 syntactic words		1228 sentences
+> Total:		40386 tokens	  41367 syntactic words		1228 sentences
 
 Note: Refer to https://universaldependencies.org/u/overview/tokenization.html for the specific use of the terms "tokens" and "(syntactic) words" in Universal Dependencies.
