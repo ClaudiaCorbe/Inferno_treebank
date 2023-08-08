@@ -1,0 +1,15 @@
+- Split 1-2-3			3479 tokens (0.086)		3561 syntactic words (0.086)	110 sentences (0.090)
+- Split 4-5-6			3378 tokens (0.084)		3460 syntactic words (0.084)	120 sentences (0.098)
+- Split 7-8-9			3392 tokens (0.084)		3469 syntactic words (0.084)	114 sentences (0.093)
+- Split 10-11-12		3389 tokens (0.084)		3477 syntactic words (0.084)	102 sentences (0.083)
+- Split 13-14-15		3575 tokens (0.089)		3664 syntactic words (0.089)	110 sentences (0.090)
+- Split 16-17-18		3446 tokens (0.085)		3525 syntactic words (0.085)	106 sentences (0.086)
+- Split 19-20-21		3444 tokens (0.085)		3522 syntactic words (0.085)	115 sentences (0.094)
+- Split 22-23-24		3883 tokens (0.096)		3964 syntactic words (0.096)	115 sentences (0.094)
+- Split 25-26-27		3664 tokens (0.091)		3754 syntactic words (0.091)	94 sentences  (0.077)
+- Split 28-29-30		3678 tokens (0.091)		3781 syntactic words (0.091)	94 sentences  (0.077)
+- Split 31-32-33-34		5058 tokens (0.125)		5190 syntactic words (0.125)	148 sentences (0.121)
+
+Key: statistics for the partition of the data set into blocks of 3 (or 4) canti, with absolute values and percentage on the total for the respective category.
+
+Note: Refer to https://universaldependencies.org/u/overview/tokenization.html for the specific use of the terms "tokens" and "(syntactic) words" in Universal Dependencies.

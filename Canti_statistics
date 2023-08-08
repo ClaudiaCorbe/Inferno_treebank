@@ -1,0 +1,38 @@
+- Canto 11		980 tokens		999 syntactic words			26 sentences
+- Canto 6		995 tokens		1016 syntactic words		33 sentences
+- Canto 20		1059 tokens		1080 syntactic words		36 sentences
+- Canto 15		1066 tokens		1097 syntactic words		31 sentences
+- Canto 7		1092 tokens		1121 syntactic words		38 sentences
+- Canto 3		1132 tokens		1151 syntactic words		42 sentences
+- Canto 9		1134 tokens		1156 syntactic words		35 sentences
+- Canto 18		1137 tokens		1165 syntactic words		39 sentences
+- Canto 1		1139 tokens		1164 syntactic words		33 sentences
+- Canto 16		1147 tokens		1172 syntactic words		32 sentences
+- Canto 27		1153 tokens		1180 syntactic words		28 sentences
+- Canto 5		1160 tokens		1192 syntactic words		44 sentences
+- Canto 17		1162 tokens		1188 syntactic words		35 sentences
+- Canto 8		1166 tokens		1192 syntactic words		41 sentences
+- Canto 19		1167 tokens		1193 syntactic words		40 sentences
+- Canto 28		1189 tokens		1226 syntactic words		31 sentences
+- Canto 29		1189 tokens		1217 syntactic words		28 sentences
+- Canto 10		1199 tokens		1235 syntactic words		41 sentences
+- Canto 2		1208 tokens		1246 syntactic words		35 sentences
+- Canto 12		1210 tokens		1243 syntactic words		35 sentences
+- Canto 14		1215 tokens		1241 syntactic words		36 sentences
+- Canto 26		1215 tokens		1257 syntactic words		28 sentences
+- Canto 21		1218 tokens		1249 syntactic words		39 sentences
+- Canto 34		1221 tokens		1249 syntactic words		35 sentences
+- Canto 4		1223 tokens		1252 syntactic words		43 sentences
+- Canto 31		1228 tokens		1261 syntactic words		35 sentences
+- Canto 32		1242 tokens		1275 syntactic words		35 sentences
+- Canto 24		1291 tokens		1312 syntactic words		35 sentences
+- Canto 13		1294 tokens		1326 syntactic words		43 sentences
+- Canto 23		1294 tokens		1329 syntactic words		39 sentences
+- Canto 25		1296 tokens		1317 syntactic words		38 sentences
+- Canto 22		1298 tokens		1323 syntactic words		41 sentences
+- Canto 30		1300 tokens		1338 syntactic words		35 sentences
+- Canto 33		1367 tokens		1405 syntactic words		43 sentences
+
+> Total:		40386 tokens	41367 syntactic words		1228 sentences
+
+Note: Refer to https://universaldependencies.org/u/overview/tokenization.html for the specific use of the terms "tokens" and "(syntactic) words" in Universal Dependencies.
