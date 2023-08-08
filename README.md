@@ -1,6 +1,6 @@
 # Inferno treebank
 
-This repository contains files related to the ongoing morphosyntactic annotation following the [Universal Dependencies formalism](https://universaldependencies.org/) (upcoming treebank) of the *Divina Commedia* 'Divine Comedy', the major work by Dante Alighieri, who lived between the 13th and the 14th century in Italy.  Anotation is performed by **Claudia Corbetta** (@ClaudiaCorbe) with some help by Flavio Massimiliano Cecchini (@Stormur) and Giovanni Moretti, at the CIRCSE research center of the Università Cattolica del Sacro Cuore in Milan under the supervision of prof. Marco Passarotti.
+This repository contains files related to the ongoing morphosyntactic annotation following the [Universal Dependencies formalism](https://universaldependencies.org/) (upcoming treebank) of the *Divina Commedia* 'Divine Comedy', the major work by Dante Alighieri, who lived between the 13th and the 14th century in Italy.  Annotation is performed by **Claudia Corbetta** (@ClaudiaCorbe) with some help by Flavio Massimiliano Cecchini (@Stormur) and Giovanni Moretti, at the CIRCSE research center of the Università Cattolica del Sacro Cuore in Milan under the supervision of prof. Marco Passarotti.
 
 In particular, here you can find:
 
